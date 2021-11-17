@@ -10,7 +10,7 @@ The current method used by HR is exit interviews. This gives the employee the ch
 
 The HR department therefore wants us to build a classification model that will predict which employees are most likely to leave.
 
-They provided us with a dataset of past full-time employees and their status (employed/left) as well as various other data (```employee_data.csv```).
+They provided us with a dataset of past full-time employees and their status (employed/left) as well as various other data.
 
 We optimized Logistic Regression, Random Forest Regressors, and Boosted Trees to determine the best model.
 
